@@ -23,7 +23,7 @@
 
 <img width="600" height="1027" alt="Browser" src="https://github.com/user-attachments/assets/29ae4267-dcb1-4e88-97c4-c3e4a4d72b7b" />
 
-- Adjust the screensize of your browser to switch between desktop view and mobile view
+- Adjust the screensize of your browser to switch between mobile view and desktop view
 
 <img width="250" height="600" alt="Screenshot 2025-09-25 142344" src="https://github.com/user-attachments/assets/5cce19d2-a039-4e0e-8ba8-c358f30ed3ac" />
 
@@ -34,6 +34,7 @@
 <img width="600" height="1022" alt="Browser2" src="https://github.com/user-attachments/assets/7052cf0a-3d4d-405b-a032-863cd38852f7" />
 
 - Enter **CTRL** + **R** for new content
+
 
 
 
