@@ -29,9 +29,11 @@
 
 <img width="600" height="1027" alt="Screenshot 2025-09-25 142405" src="https://github.com/user-attachments/assets/2b69ff15-384c-46cb-828d-fe8fc4c200f7" />
 
-- Click the *LIKE* | *DISLIKE* **button**
+- Click the **LIKE** or **DISLIKE** to give feedback
 
 <img width="600" height="1022" alt="Browser2" src="https://github.com/user-attachments/assets/7052cf0a-3d4d-405b-a032-863cd38852f7" />
+
+- Enter **CTRL** + **R** for new content
 
 
 
