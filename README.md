@@ -2,7 +2,7 @@
 
 Small website to interact with the Made My Day API. <br>
 Fetches images from the API. <br>
-Has feedback function.
+Has a feedback function.
 
 ## Setup XAMPP
 - Download XAMPP **https://www.apachefriends.org/download.html**
@@ -38,6 +38,7 @@ Has feedback function.
 <img width="600" height="1022" alt="Browser2" src="https://github.com/user-attachments/assets/7052cf0a-3d4d-405b-a032-863cd38852f7" />
 
 - Enter **CTRL** + **R** for new content
+
 
 
 
