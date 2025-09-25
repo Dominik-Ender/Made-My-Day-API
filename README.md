@@ -33,6 +33,8 @@
 
 <img width="1919" height="1022" alt="Browser2" src="https://github.com/user-attachments/assets/7052cf0a-3d4d-405b-a032-863cd38852f7" />
 
+<img width="600" height="320" alt="Browser2" src="https://github.com/user-attachments/assets/4c152f78-ecca-4782-a21c-aa5af7f707ad" />
+
 
 
 
