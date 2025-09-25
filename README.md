@@ -25,7 +25,7 @@
 
 - adjust your browser between desktop view and mobile view
 
-<img width="629" height="600" alt="Screenshot 2025-09-25 142344" src="https://github.com/user-attachments/assets/5cce19d2-a039-4e0e-8ba8-c358f30ed3ac" />
+<img width="250" height="600" alt="Screenshot 2025-09-25 142344" src="https://github.com/user-attachments/assets/5cce19d2-a039-4e0e-8ba8-c358f30ed3ac" />
 
 <img width="600" height="1027" alt="Screenshot 2025-09-25 142405" src="https://github.com/user-attachments/assets/2b69ff15-384c-46cb-828d-fe8fc4c200f7" />
 
@@ -33,7 +33,7 @@
 
 <img width="600" height="1022" alt="Browser2" src="https://github.com/user-attachments/assets/7052cf0a-3d4d-405b-a032-863cd38852f7" />
 
-<img width="600" height="320" alt="Browser2" src="https://github.com/user-attachments/assets/4c152f78-ecca-4782-a21c-aa5af7f707ad" />
+
 
 
 
