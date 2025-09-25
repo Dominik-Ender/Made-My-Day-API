@@ -11,29 +11,30 @@
 
 - Download ZIP or copy the Repo and pull it to your local machine and place in the **htdocs** directory
 
-<img width="1919" height="1024" alt="Github_Download" src="https://github.com/user-attachments/assets/9427a50f-85e6-49d2-b69c-dca329beac0e" />
+<img width="600" height="1024" alt="Github_Download" src="https://github.com/user-attachments/assets/9427a50f-85e6-49d2-b69c-dca329beac0e" />
 
 ## Usage 
 - Start XAMPP
 - Press **start** button
 
-<img width="848" height="553" alt="XamppControlPanel" src="https://github.com/user-attachments/assets/2d79901b-625f-4f03-b456-0d450205802b" />
+<img width="600" height="553" alt="XamppControlPanel" src="https://github.com/user-attachments/assets/2d79901b-625f-4f03-b456-0d450205802b" />
 
 - enter localhost in your browser
 
-<img width="1918" height="1027" alt="Browser" src="https://github.com/user-attachments/assets/29ae4267-dcb1-4e88-97c4-c3e4a4d72b7b" />
+<img width="600" height="1027" alt="Browser" src="https://github.com/user-attachments/assets/29ae4267-dcb1-4e88-97c4-c3e4a4d72b7b" />
 
 - adjust your browser between desktop view and mobile view
 
-<img width="629" height="1022" alt="Screenshot 2025-09-25 142344" src="https://github.com/user-attachments/assets/5cce19d2-a039-4e0e-8ba8-c358f30ed3ac" />
+<img width="629" height="600" alt="Screenshot 2025-09-25 142344" src="https://github.com/user-attachments/assets/5cce19d2-a039-4e0e-8ba8-c358f30ed3ac" />
 
-<img width="1919" height="1027" alt="Screenshot 2025-09-25 142405" src="https://github.com/user-attachments/assets/2b69ff15-384c-46cb-828d-fe8fc4c200f7" />
+<img width="600" height="1027" alt="Screenshot 2025-09-25 142405" src="https://github.com/user-attachments/assets/2b69ff15-384c-46cb-828d-fe8fc4c200f7" />
 
 - Click the **LIKE** | **DISLIKE** **button**
 
-<img width="1919" height="1022" alt="Browser2" src="https://github.com/user-attachments/assets/7052cf0a-3d4d-405b-a032-863cd38852f7" />
+<img width="600" height="1022" alt="Browser2" src="https://github.com/user-attachments/assets/7052cf0a-3d4d-405b-a032-863cd38852f7" />
 
 <img width="600" height="320" alt="Browser2" src="https://github.com/user-attachments/assets/4c152f78-ecca-4782-a21c-aa5af7f707ad" />
+
 
 
 
